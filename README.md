@@ -46,6 +46,10 @@ weather-dashboard/
 - script.js
 - README.md
 
+## Live Demo
+ - https://mahnazmh.github.io/weather-dashboard/
+
 ## Author
 
-Created as a frontend development portfolio project.
+Mahnaz Mirhosseini
+
